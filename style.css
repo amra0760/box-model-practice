@@ -24,7 +24,7 @@
 .topic {
     background: lightgray;
     /*add CSS here*/
-    display: inline;
-    margin: 150px;
+    display: inline-block;
+    margin: 80px;
 }
 
